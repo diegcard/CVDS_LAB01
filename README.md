@@ -1,6 +1,7 @@
 # LABORATORIO 1- INTRODUCCIÓN GIT
 
 ## Diego Cardenas
+## Sebastian Cardona
 
 Cambio realizado para visualizar en el repositorio
 
