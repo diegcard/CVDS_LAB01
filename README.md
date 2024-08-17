@@ -53,3 +53,9 @@ Se crea la rama que cada uno y despues se ejecutan los cambios
 ### 4.
 
 Cada quien hizo un cambio
+
+### cambios en PR 
+
+![alt text](image-4.png)
+
+y luego se confirmaron los cambion y se hicieron un merge
