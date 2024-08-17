@@ -47,3 +47,7 @@ Se crea la rama que cada uno y despues se ejecutan los cambios
 ### 3.
 
 ![alt text](image-3.png)
+
+### 4.
+
+Cada quien hizo un cambio
