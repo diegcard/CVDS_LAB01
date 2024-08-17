@@ -19,3 +19,10 @@ git commit -m "mensaje"
 Este comando se utiliza para confirmar los cambios que están en el área de preparación y guardarlos en el historial del repositorio.
 
 Prueba para subir cambios al mismo tiempo
+
+6.
+
+
+Lo que sucedio fue que a mi compañero no le dejo subir los cambios, entonces yo gane la carrera 
+
+![alt text](image-2.png)
