@@ -30,5 +30,16 @@ Lo que sucedio fue que a mi compañero no le dejo subir los cambios, entonces yo
 
 ### 7.
 
-Resolvimos los conflictos haciendo un pull y despues un push 
+Resolvimos los conflictos haciendo un pull y despues un push.
 
+# Parte tres
+
+### 1.
+
+Esto seria por medio de las ramas en git y los pull request y las solicitudes de los cambios que se quieran subir al repositorio y los aprueben o los rechazen.
+
+### 2.
+
+Un <Strong>Pull Request</Strong> es una petición para que los cambios realizados en una rama sean revisados y, si se aprueban, integrados en otra rama, usualmente la principal como main o master. Este proceso facilita la colaboración en proyectos, permitiendo que otros revisen, comenten y propongan mejoras al código antes de que se incorpore al código base del proyecto.
+
+Se crea la rama que cada uno y despues se ejecutan los cambios
