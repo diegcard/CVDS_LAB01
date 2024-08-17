@@ -27,3 +27,8 @@ Prueba para subir cambios al mismo tiempo
 Lo que sucedio fue que a mi compañero no le dejo subir los cambios, entonces yo gane la carrera 
 
 ![alt text](image-2.png)
+
+### 7.
+
+Resolvimos los conflictos haciendo un pull y despues un push 
+
